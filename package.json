@@ -1,0 +1,12 @@
+{
+  "name": "apiBlogAdhok",
+  "version": "1.0.0",
+  "description": "Solo Endpoints con conexión a BD para el BLOG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
